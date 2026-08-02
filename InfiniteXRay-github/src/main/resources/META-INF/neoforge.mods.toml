@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="infinitexray"
+version="1.0.1"
+displayName="无限透视"
+description='''
+Infinite X-Ray (无限透视)
+A pure client-side NeoForge mod for Minecraft 1.21.
+Press the configured key to open a block search screen, pick a block, and every
+matching block in the loaded area is highlighted through walls.
+Works on multiplayer servers without any server-side installation.
+
+纯客户端模组:按下快捷键打开方块搜索界面,选中方块后即可透视高亮附近所有同类方块,
+联机服务器无需安装本模组。
+'''
+authors="MaskedFish"
+
+[[dependencies.infinitexray]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.infinitexray]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21,1.22)"
+    ordering="NONE"
+    side="BOTH"

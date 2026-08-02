@@ -1,0 +1,21 @@
+{
+  "key.categories.infinitexray": "Infinite X-Ray",
+  "key.infinitexray.open_search": "Open Block Search",
+  "key.infinitexray.toggle_highlight": "Toggle X-Ray Highlight",
+  "screen.infinitexray.title": "Infinite X-Ray - Block Search",
+  "screen.infinitexray.search_hint": "Search block name or ID...",
+  "screen.infinitexray.disable": "Disable highlight",
+  "screen.infinitexray.hint": "Click an entry to highlight that block. Esc to close.",
+  "screen.infinitexray.settings": "Settings",
+  "screen.infinitexray.config_title": "Infinite X-Ray Settings",
+  "screen.infinitexray.radius_label": "Render distance: %s blocks",
+  "screen.infinitexray.mode_filled": "Render mode: Filled block",
+  "screen.infinitexray.mode_outline": "Render mode: Outline only",
+  "screen.infinitexray.red": "Red: %s",
+  "screen.infinitexray.green": "Green: %s",
+  "screen.infinitexray.blue": "Blue: %s",
+  "screen.infinitexray.reset": "Reset",
+  "screen.infinitexray.done": "Done",
+  "message.infinitexray.enabled": "X-Ray: highlighting %s",
+  "message.infinitexray.disabled": "X-Ray: highlight disabled"
+}

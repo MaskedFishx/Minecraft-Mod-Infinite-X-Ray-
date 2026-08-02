@@ -1,0 +1,21 @@
+{
+  "key.categories.infinitexray": "透视",
+  "key.infinitexray.open_search": "打开方块搜索",
+  "key.infinitexray.toggle_highlight": "开关透视高亮",
+  "screen.infinitexray.title": "无限透视 - 方块搜索",
+  "screen.infinitexray.search_hint": "输入方块名称或 ID 搜索...",
+  "screen.infinitexray.disable": "✕ 关闭高亮",
+  "screen.infinitexray.hint": "点击条目即可透视高亮该方块,按 Esc 关闭",
+  "screen.infinitexray.settings": "透视设置",
+  "screen.infinitexray.config_title": "透视设置",
+  "screen.infinitexray.radius_label": "渲染距离: %s 格",
+  "screen.infinitexray.mode_filled": "渲染模式: 整体方块",
+  "screen.infinitexray.mode_outline": "渲染模式: 仅方块边框",
+  "screen.infinitexray.red": "红色: %s",
+  "screen.infinitexray.green": "绿色: %s",
+  "screen.infinitexray.blue": "蓝色: %s",
+  "screen.infinitexray.reset": "恢复默认",
+  "screen.infinitexray.done": "完成",
+  "message.infinitexray.enabled": "透视已开启:%s",
+  "message.infinitexray.disabled": "透视已关闭"
+}
